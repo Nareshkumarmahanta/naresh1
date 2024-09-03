@@ -99,9 +99,37 @@ operater in javascript :-
 2. Unary operator - ++(increment), --(Decrement).
 3. Assignment operator - (=,+=,-=,*=,%=,/=,**=)
 4. Logical operator - (Logical and operator - &&),(Logical or operator ||)
-5. Compairision operator - (==,|=,|==,===)
+5. Compairision operator - (==,!=,!==,===(strit mode))
 
 
 
+Conditional statement in javascript :-
 
+- conditional statement are used to implement some condition in code.
+- there are 3 types of conditional statement are their in javascript.
+1. if condition :-
+- if condition is true then statement is execute.
+- syntax :-
+if (condition){
+  statement
+}
+
+2. if else conditon :-
+- if condition is true then if block is executed otherwise its terminated to else condition.
+- syntax :-
+if (condition){
+  statement
+} else {
+  statement
+}
+3. else if condition :-
+- its check the condition multipal times where the condition is true.
+- syntax :-
+if (condition){
+  statement
+} else if (condition) {
+  statement
+} else {
+  statement
+}
 
