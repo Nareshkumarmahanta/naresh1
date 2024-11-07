@@ -79,7 +79,7 @@ person = {
 ex. of array:-
 
 let arr = [1,2,4,5,8,6,9,3,2]
-note - array indexing start from "8" .
+note - array indexing start from "0" .
 
 ex. of function:-
 
